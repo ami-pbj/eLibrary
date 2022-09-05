@@ -1,6 +1,4 @@
 # eLibrary
 
-Login to eLibrary
-Add Book Data on eBook Shop
-Search Update Delete Book Data on eBook Shop
-Purchase Book from eLibrary
+This is my first project using JDBC, MySQL in JAVA. This is basically GUI based application.
+Customers can buy books from here and they will also get a bill.
